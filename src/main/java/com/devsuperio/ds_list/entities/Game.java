@@ -35,7 +35,7 @@ public class Game {
 		
 	}
 
-	public Game(Long id, String title, Integer year, String genre, String plataform, Double score, String imgUrl,
+	public Game(Long id, String title, Integer year, String genre, String platforms, Double score, String imgUrl,
 			String shortDescription, String longDescription) {
 		super();
 		this.id = id;
@@ -81,12 +81,12 @@ public class Game {
 		this.genre = genre;
 	}
 
-	public String getPlataform() {
+	public String getPlatforms() {
 		return platforms;
 	}
 
-	public void setPlataform(String plataform) {
-		this.platforms = plataform;
+	public void setPlatforms(String platforms) {
+		this.platforms = platforms;
 	}
 
 	public Double getScore() {
