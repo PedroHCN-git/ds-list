@@ -8,7 +8,7 @@ O projeto foi feito durante a semana Intensivão Java Spring, promovida pela equ
 
 # Modelo de Domínio
 
-[Imagem do Modelo](https://github.com/PedroHCN-git/ds-list/blob/main/src/assets/dslist-model.png)
+![Imagem do Modelo](https://github.com/PedroHCN-git/ds-list/blob/main/src/assets/dslist-model.png)
 
 # Tecnologias utilizadas
 
